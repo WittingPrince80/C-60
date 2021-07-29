@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    
+}
+
+#app{
+   
+   height: 800px;
+    width: 100%;
+    background-color: darkcyan;
+    
+}
+
+#bot{
+    height: 800px;
+    width: 100%;
+    background-color: lightcyan;
+    
+    
+}
+
+#games{
+    height: 800px;
+    width: 100%;
+    background-color: cyan;
+    
+    
+}
+#hi{
+    height: 400px;
+}
+
+.line{
+height: 5px;
+    width: 80px;
+    color: black;
+    
+    
+}
+h1{
+   font-size:  60px;
+}
